@@ -1,3 +1,5 @@
+# [Zence](https://zece.in)
+
 ## Hi there 👋
 
 <!--
@@ -10,3 +12,8 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+Welcome to Zence universe.
+
+Soon (and hopefully), we will host some great resources accessible and open to use for everyone.
+Wish [me](http://twitter.com/ikmrgrv) luck till then...
